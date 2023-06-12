@@ -1,0 +1,19 @@
+.imgheader {
+    background-image: url('/images/girlgoogles.jpg');
+
+    height: 100vh;
+
+}
+
+
+.background1{
+    background-image: url('./images/box.jpg')
+
+
+}
+
+.background2{
+
+    background-image: url('./images/card.jpg')
+
+}
