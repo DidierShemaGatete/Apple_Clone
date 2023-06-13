@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.img1{
+
+    background-image: url('../images/hero_macbook_air_15_announce__fz5mtxnl9l6q_small.jpg')
+}
